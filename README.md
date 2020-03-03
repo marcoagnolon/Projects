@@ -25,4 +25,6 @@ bayesian_belief_network.ipynb: R, construction of a bayesian belief network
 
 Inside Neural Network repository there are some neural networks implemented using Pytorch 
 
+ULTN contains an unsupervised learning algorithm for MNIST images reconstruction and generation using Fortran and tensor networks
+
 
