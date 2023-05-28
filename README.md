@@ -1,7 +1,6 @@
 # Projects
 
-In this repository there are several projects developed by me and a team of my university classmates. 
-It was asked, most of the times,  to put togheter a team in ordeer to solve the specific problem of the projects and to make a report of the job done.
+This repository contains several projects that I developed autonomously. 
 
 Here I list the projects, programming language used and presentation the main topics of them:
 
@@ -16,6 +15,7 @@ Agnolon_Marco_code3.ipynb: Python, RSA and SAR on Barro Colorado island
 Agnolon_Marco_ex1.pdf: report of Agnolon_Marco_code1.ipynb
 
 Agnolon_Marco_ex2.pdf: report of Agnolon_Marco_code2.ipynb
+
 
 Agnolon_Marco_ex3.pdf: report of Agnolon_Marco_code3.ipynb
 
